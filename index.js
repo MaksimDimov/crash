@@ -1,3 +1,3 @@
 'use strict';
 
-const TOKEN = 1;
+wrebsabzdfbszfzbfebrszebtrf;
